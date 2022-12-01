@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ak4abhijith/maxwell/static/css/main.2167c44d.css",
-    "main.js": "/ak4abhijith/maxwell/static/js/main.1395f33a.js",
-    "static/js/787.23eb3d17.chunk.js": "/ak4abhijith/maxwell/static/js/787.23eb3d17.chunk.js",
-    "index.html": "/ak4abhijith/maxwell/index.html",
-    "main.2167c44d.css.map": "/ak4abhijith/maxwell/static/css/main.2167c44d.css.map",
-    "main.1395f33a.js.map": "/ak4abhijith/maxwell/static/js/main.1395f33a.js.map",
-    "787.23eb3d17.chunk.js.map": "/ak4abhijith/maxwell/static/js/787.23eb3d17.chunk.js.map"
+    "main.css": "/maxwell/static/css/main.2167c44d.css",
+    "main.js": "/maxwell/static/js/main.d62ad257.js",
+    "static/js/787.23eb3d17.chunk.js": "/maxwell/static/js/787.23eb3d17.chunk.js",
+    "index.html": "/maxwell/index.html",
+    "main.2167c44d.css.map": "/maxwell/static/css/main.2167c44d.css.map",
+    "main.d62ad257.js.map": "/maxwell/static/js/main.d62ad257.js.map",
+    "787.23eb3d17.chunk.js.map": "/maxwell/static/js/787.23eb3d17.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2167c44d.css",
-    "static/js/main.1395f33a.js"
+    "static/js/main.d62ad257.js"
   ]
 }
